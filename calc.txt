@@ -5,3 +5,7 @@ int sum(int a,int b)
 //
 int sub(int a,int b)
 {return a-b;}
+//I am adding division method for calculator
+int div(int a,int b){
+return a/b;
+}
