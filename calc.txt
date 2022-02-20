@@ -9,3 +9,11 @@ int sub(int a,int b)
 int div(int a,int b){
 return a/b;
 }
+
+//Please see the code below for multiplication
+int mul(int a,int b){
+return a*b;
+}
+sdfsdklfjlsdj
+sdfklsdfklsdjsdljkfsd
+sdfldfjklsdjklfsdjl
